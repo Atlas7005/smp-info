@@ -29,6 +29,7 @@ Når alle er døde og der kun er en tilbage, stopper kampen, vinderen bliver skr
 `/spawn` *- Teleportere til Spawn.* <br>
 `/shop` *- Se hvordan man bruger shops.* <br>
 `/balls [valgfri spiller her}` *- Se hvor mange balls (serverens valuta) du eller andre har.* <br>
+`/giveballs spiller antal` *- Giv en spiller et antal balls fra dig.* <br>
 `/gemcoords navn` *- Gemmer dine nuværende coords til det givet navn.* <br>
 `/fjerncoords navn` *- Fjerner gemte coords ved navnet givet.* <br>
 `/coords [navn]` *- Viser enten dine nuværende coords, eller gemte coords.* <br>

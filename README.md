@@ -1,4 +1,4 @@
-## \***\*_Gulag:_\*\***<br>
+## ***_Gulag:_***<br>
 
 Først, så skal vi skabe en kamp. Det gør vi ved at skrive `/skabgulag`. <br>
 Derefter vil vi tilføje spillere til kampen. Der kan max være 12 spillere, eftersom der kun er 12 celler i arenaen. <br>
@@ -7,7 +7,7 @@ Når du har så mange spillere som du vil have (igen, max 12). Kan du starte kam
 Nu bliver de valgte spillere teleporteret til deres celle og de får deres kit (deres inventory bliver cleared først), der startes en 10 sekunders countdown hvorefter cellerne åbnes og spillerne kan gå igang. <br>
 Når alle er døde og der kun er en tilbage, stopper kampen, vinderen bliver skrevet i chatten og deres inventory bliver cleared.
 
-## \***\*_OP Commands:_\*\*** <br>
+## ***_OP Commands:_*** <br>
 
 `/gms` _- Skift gamemode til Survival._ <br>
 `/gmsp` _- Skift gamemode til Spectator._ <br>
@@ -25,7 +25,7 @@ Når alle er døde og der kun er en tilbage, stopper kampen, vinderen bliver skr
 `/addballs spiller antal` _- Tilføj et antal balls til en spiller._ <br>
 `/nick nyenavn` _- Sætter dit synlige navn til noget andet._
 
-## \***\*_Commands:_\*\***
+## ***_Commands:_***
 
 `/warp warpnavn` _- Teleportere til et warp ved navnet givet._ <br>
 `/warps` _- Viser en liste af de tilgængelige warps._ <br>
